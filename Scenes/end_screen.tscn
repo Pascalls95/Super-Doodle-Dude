@@ -1,0 +1,56 @@
+[gd_scene format=3 uid="uid://do6h4j3uohivp"]
+
+[ext_resource type="Script" uid="uid://ddc5qffw04hdl" path="res://Scripts/title_screen.gd" id="1_8yanq"]
+[ext_resource type="Texture2D" uid="uid://dl8rgjbb3bnpb" path="res://Assets/Map/Screenshot 2026-07-13 at 6.28.23 PM.png" id="2_fi2y0"]
+[ext_resource type="Texture2D" uid="uid://bb2dfhatjfoax" path="res://Assets/Map/Screenshot_2026-07-13_at_6.40.31_PM-removebg-preview.png" id="3_em7vc"]
+[ext_resource type="FontFile" uid="uid://bohadtvjko7y0" path="res://Assets/Fonts/IndieFlower-Regular.ttf" id="4_4suit"]
+[ext_resource type="FontFile" uid="uid://dsptsgprusm0u" path="res://Assets/Fonts/FingerPaint-Regular.ttf" id="5_wqrt5"]
+
+[node name="Title Screen" type="Control" unique_id=761514124]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8yanq")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1893846359]
+layout_mode = 0
+offset_left = 7.0
+offset_top = 6.0
+offset_right = 1298.0
+offset_bottom = 1224.0
+texture = ExtResource("2_fi2y0")
+
+[node name="TextureRect2" type="TextureRect" parent="." unique_id=365425933]
+visible = false
+layout_mode = 0
+offset_left = 258.0
+offset_top = 134.0
+offset_right = 998.0
+offset_bottom = 444.0
+texture = ExtResource("3_em7vc")
+
+[node name="Start Button" type="Button" parent="." unique_id=1411397273]
+layout_mode = 0
+offset_left = 526.0
+offset_top = 476.0
+offset_right = 727.0
+offset_bottom = 537.0
+theme_override_fonts/font = ExtResource("4_4suit")
+theme_override_font_sizes/font_size = 32
+text = "Play Again"
+
+[node name="Label" type="Label" parent="." unique_id=1761623740]
+layout_mode = 0
+offset_left = 436.0
+offset_top = 169.0
+offset_right = 1087.0
+offset_bottom = 446.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_wqrt5")
+theme_override_font_sizes/font_size = 90
+text = "You WIN"
+
+[connection signal="pressed" from="Start Button" to="." method="_on_start_button_pressed"]

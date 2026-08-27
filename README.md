@@ -1,0 +1,17 @@
+This game that I creates is a Mario like Godot platformer called Super Doodle Dude. 
+It is a simple but fun game, and it is my first attempt at a platformer on Godot. 
+I created all animations and assets myself using Canva, and imported fonts from Google Fonts.
+To run the project, simply press play and use the W, A and S keys (or arrow keys) to control your character.
+Collect coins and get the highest score possible, by not losing all 3 lives. If you lose all
+lives, you will lose your score and have to resart the level. There are a total of 5 levels.
+
+I had a problem where the portals only teleported the player to one specific coordinate. I fixed
+it by making it so they get teleported to a markers called PortalDestination.
+
+To run this project, simply open the deployed link that has been provided and work your way throught the game.
+
+AI was partially used in this project, only to learn how to do certain, specific things that I could not find
+a tutorial on.
+
+Provided below are a few screenshots of the website:
+	
