@@ -14,7 +14,11 @@ AI was partially used in this project, only to learn how to do certain, specific
 a tutorial on.
 
 Provided below are a few screenshots of the website:
+
+
 <img width="576" height="326" alt="Screenshot 2026-08-27 at 9 14 14 pm" src="https://github.com/user-attachments/assets/9c377e1e-bf38-4764-9156-4b7b8994584c" />
+
+
 <img width="576" height="326" alt="Screenshot 2026-08-27 at 9 14 39 pm" src="https://github.com/user-attachments/assets/1b9c4477-c038-4c60-89f1-548348a43f76" />
 
 
