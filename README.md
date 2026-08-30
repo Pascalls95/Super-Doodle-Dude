@@ -11,8 +11,7 @@ it by making it so they get teleported to a markers called PortalDestination.
 
 To run this project, simply open the deployed link that has been provided and work your way throught the game.
 
-AI was partially used in this project, only to learn how to do certain, specific things that I could not find
-a tutorial on.
+AI was partially used in this project, only to learn how to do certain, specific things such as the portals.
 
 Provided below are a few screenshots of the website:
 
