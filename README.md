@@ -16,7 +16,7 @@ AI was partially used in this project, only to learn how to do certain, specific
 
 Provided below are a few screenshots of the website:
 
-<h5>Note to reviewer: I do not have a lot of commits on github as I did the whole project first and then uploaded it to github. I did not know that I needed to link my project to a github repo before beginning the project because it was my first time using godot, and I only realised when I was almost finished with the game. It would be much appreciated if i did not lose any hours for this, i really want the keychron k2 pro and this project will get me just enough hours for it. I now know in future to link a repo beforehand, and have done that for my other project in hack club stardance. Thank you!</h5>
+<h3>Note to reviewer: I do not have a lot of commits on github as I did the whole project first and then uploaded it to github. I did not know that I needed to link my project to a github repo before beginning the project because it was my first time using godot, and I only realised when I was almost finished with the game. It would be much appreciated if i did not lose any hours for this, i really want the keychron k2 pro and this project will get me just enough hours for it. I now know in future to link a repo beforehand, and have done that for my other project in hack club stardance. Thank you!</h3>
 
 
 <img width="576" height="326" alt="Screenshot 2026-08-27 at 9 14 14 pm" src="https://github.com/user-attachments/assets/9c377e1e-bf38-4764-9156-4b7b8994584c" />
