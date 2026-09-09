@@ -4,7 +4,8 @@ I created all animations and assets myself using Canva, and imported fonts from 
 To run the project, simply press play and use the W, A and S keys (or arrow keys) to control your character.
 Collect coins and get the highest score possible, by not losing all 3 lives. If you lose all
 lives, you will lose your score and have to resart the level. There are a total of 5 levels. In each level, there
-is a secret area on the map which will have a lot of coins! Find these to increase your score.
+is a secret area on the map which will have a lot of coins! Find these to increase your score. Every 500 points, you gain an extra life,
+which will help you as you progress through the game.
 
 I had a problem where the portals only teleported the player to one specific coordinate. I fixed
 it by making it so they get teleported to a markers called PortalDestination.
